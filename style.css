@@ -1,0 +1,163 @@
+body {
+    /* background: #E6EEE4; */
+    background: #EEECE6;
+    /* margin: 200px 0; */
+}
+
+#ingredients-main-container {
+    width: 1400px;
+    position: relative;
+}
+
+.ingredients-auto {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.ingredients-container {
+    width: 100%;
+}
+
+#ingredients-img {
+    height: auto;
+    max-width: 100%;
+}
+
+.select {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background: #506444;
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    position: absolute;
+    z-index: 2;
+}
+
+.select:hover {
+    cursor: pointer;
+    font-size: 18.5px;
+    background: #9FC5AA;
+}
+
+.ingredients-modal {
+    z-index: 2;
+    background: #506444;
+    color: #FFFFFF;
+    border-radius: 30px;
+    padding: 20px;
+    width: 250px;
+    position: absolute;
+    opacity: 0;
+    transition: .7s;
+}
+
+.ingredients-heading {
+    margin-top: 0;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: rubik, sans-serif;
+}
+
+.ingredients-body {
+    text-align: left;
+    font-family: rubik, sans-serif;
+    margin-bottom: 0;
+}
+
+#earth {
+    top: 20%;
+    left: 11%;
+}
+
+#earth-modal {
+    top: 25%;
+    left: 2%;
+}
+
+#cucumber {
+    top: 16%;
+    left: 46%;
+}
+
+#cucumber-modal {
+    top: 21%;
+    left: 37%;
+}
+
+#soybean {
+    top: 14%;
+    left: 88%;
+}
+
+#soybean-modal {
+    top: 19%;
+    left: 79%;
+}
+
+#coconut {
+
+}
+
+#coconut-modal {
+
+}
+
+#lavender {
+
+}
+
+#lavender-oil {
+
+}
+
+#beet {
+
+}
+
+#beet-modal {
+
+}
+
+#cedarwood {
+
+}
+
+#cedarwood-modal {
+
+}
+
+#peppermint {
+
+}
+
+#peppermint-modal {
+
+}
+
+#water {
+
+}
+
+#water-modal {
+
+}
+
+#lemon {
+
+}
+
+#lemon-modal {
+
+}
+
+#lemongrass {
+
+}
+
+#lemongrass-modal {
+
+}
