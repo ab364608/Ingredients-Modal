@@ -17,6 +17,9 @@ var count = 0;
 //     console.log(selected);
 // }
 
+var test = ""
+
+
 function openModal(e) {
     console.log(button);
     console.log(e.target);
