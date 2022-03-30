@@ -45,7 +45,7 @@ function windowClose(e) {
             // store = null;
             count = 0;
             isOpen = '';
-        }
+        } else if ()
     // }
 }
 
