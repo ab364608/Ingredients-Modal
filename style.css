@@ -21,6 +21,7 @@ body {
 #ingredients-img {
     height: auto;
     max-width: 100%;
+    transform: scale(.85);
 }
 
 .select {
@@ -59,23 +60,23 @@ body {
     margin-top: 0;
     margin-bottom: 15px;
     text-align: center;
-    font-family: rubik, sans-serif;
+    font-family: poppins, sans-serif;
 }
 
 .ingredients-body {
     text-align: left;
-    font-family: rubik, sans-serif;
+    font-family: poppins, sans-serif;
     margin-bottom: 0;
 }
 
 #earth {
-    top: 20%;
-    left: 11%;
+    top: 22%;
+    left: 15%;
 }
 
 #earth-modal {
-    top: 25%;
-    left: 2%;
+    top: 26%;
+    left: 6%;
 }
 
 #cucumber {
@@ -84,80 +85,96 @@ body {
 }
 
 #cucumber-modal {
-    top: 21%;
+    top: 20%;
     left: 37%;
 }
 
 #soybean {
-    top: 14%;
-    left: 88%;
+    top: 16%;
+    left: 84%;
 }
 
 #soybean-modal {
-    top: 19%;
-    left: 79%;
+    top: 20%;
+    left: 75%;
 }
 
 #coconut {
-
+    top: 45%;
+    left: 12%;
 }
 
 #coconut-modal {
-
+    top: 49%;
+    left: 3%;
 }
 
 #lavender {
-
+    top: 39%;
+    left: 37%;
 }
 
-#lavender-oil {
-
+#lavender-modal {
+    top: 22.3%;
+    left: 28%;
 }
 
 #beet {
-
+    top: 34%;
+    left: 56.5%;
 }
 
 #beet-modal {
-
+    top: 38%;
+    left: 47.5%;
 }
 
 #cedarwood {
-
+    top: 45%;
+    left: 78%;
 }
 
 #cedarwood-modal {
-
+    top: 28.3%;
+    left: 69%;
 }
 
 #peppermint {
-
+    top: 69%;
+    left: 20%;
 }
 
 #peppermint-modal {
-
+    top: 73%;
+    left: 11%;
 }
 
 #water {
-
+    top: 64%;
+    left: 37%;
 }
 
 #water-modal {
-
+    top: 47.5%;
+    left: 28%;
 }
 
 #lemon {
-
+    top: 57%;
+    left: 59%;
 }
 
 #lemon-modal {
-
+    top: 61%;
+    left: 50%;
 }
 
 #lemongrass {
-
+    top: 80%;
+    left: 77%;
 }
 
 #lemongrass-modal {
-
+    top: 65.3%;
+    left: 68%;
 }
