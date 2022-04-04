@@ -60,13 +60,14 @@ body {
     margin-top: 0;
     margin-bottom: 15px;
     text-align: center;
-    font-family: poppins, sans-serif;
+    cursor: default;
 }
 
 .ingredients-body {
     text-align: left;
     font-family: poppins, sans-serif;
     margin-bottom: 0;
+    cursor: default;
 }
 
 #earth {
